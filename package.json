@@ -4,7 +4,7 @@
   "description": "Monopo clone",
   "main": "index.js",
   "scripts": {
-    "build": "parcel build",
+    "build": "parcel index.html",
     "start": "parcel index.html"
   },
   "author": "Jason",
